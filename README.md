@@ -1,6 +1,4 @@
-Olá, sou estudante de TI, ADS na Fatec, e de outras coisas rs. 
+Olá, me chamo Eduardo. Sou graduando em ADS na Fatec BS.
 
-Tenho interesse em ciência de dados, aprendizado de máquina e inteligência artificial.
+Tenho interesse em ciência de dados, inteligência artificial e automação.
 
-Iniciei minha carreira em TI há pouco tempo, estou aprimorando meus conhecimentos. Por
-isso decidi criar este perfil para compartilhar alguns projetos e aprender com os colegas!
